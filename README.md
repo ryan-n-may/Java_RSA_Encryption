@@ -1,4 +1,6 @@
 # RSA_Cryptography_Java
+### Notes:
+* JAR files not working despite JUnits working. Need to correct and update JARs in repository. 
 ### Correct use 
 Generating private and public keys:
 ```bash
